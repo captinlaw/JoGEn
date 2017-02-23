@@ -1,0 +1,46 @@
+"Gender": "Male",
+    "Age": 16,
+    "Appearance": {
+ -    "Hair": full,
+ +    "Hair": {
+ +      "length": "1.4\"",
+ +      "color": "#995e12",
+ +      "specular": "cccccc"
+ +    },
+ +    "Eyes": {
+ +      "distance": "$NORMAL",
+ +      "inset": "2mm",
+ +      
+ +      "left": {
+ +        "iris-color": "#563406",
+ +        "color": "#00fff6",
+ +        "pupil-color": "#028200"
+ +      },
+ +      "right": {
+ +        "iris-color": "#563406",
+ +        "color": "#00fff6",
+ +        "pupil-color": "#028200"
+ +      }
+ +    }
+ +  }
+ +  "Armor": {
+ +    "layer-1": [
+ +      {
+ +        "name": "clothing.tshirt.generic",
+ +        "dye": "#9b0101"
+ +      },
+ +      {
+ +        "name": "clothing.overalls.generic",
+ +        "dye": "003468"
+ +      },
+ +      {
+ +        "name": "clothing.baseballcap.generic",
+ +        "dye": "#9b0101"
+ +      },
+ +      {
+ +        "name": "clothing.boots.generic",
+ +        "dye": "#9b0101"
+ +      }
+ +    ]
+    }
+  }
